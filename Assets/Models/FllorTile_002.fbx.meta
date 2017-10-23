@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 19587b9c9323a15488023c6d75e4377b
-timeCreated: 1508215181
+guid: 1eb3a51a37c3ad744816741629a52a97
+timeCreated: 1508738345
 licenseType: Free
 ModelImporter:
   serializedVersion: 21
@@ -9,7 +9,8 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Cylinder001
+    4300000: Floor Panel
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -79,7 +80,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
